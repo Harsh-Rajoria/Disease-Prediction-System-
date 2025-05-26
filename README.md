@@ -30,3 +30,33 @@ A Machine Learning web application built using **Streamlit** that predicts poten
 - Joblib (for model saving/loading)
 
 ---
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository:
+git clone https://github.com/your-username/disease-prediction-system.git
+cd disease-prediction-system
+2. Install dependencies:
+3. Train the model (optional if `disease_model.pkl` already exists):
+4. Run the Streamlit app:
+   streamlit run main.py
+---
+
+## 🔐 Default Login Credentials
+
+You can log in using the following sample credentials:
+
+- **Username:** admin
+- **Password:** 1234
+
+(You can modify or expand user credentials in `main.py`.)
+
+---
+
+## 📄 Sample Output
+
+After selecting symptoms and clicking "Predict", the system displays the predicted disease and allows downloading the result as a PDF report.
+
+---
+
