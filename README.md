@@ -35,7 +35,7 @@ A Machine Learning web application built using **Streamlit** that predicts poten
 ## ⚙️ How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/disease-prediction-system.git
+git clone https://github.com/Harsh-Rajoria/disease-prediction-system.git
 cd disease-prediction-system
 2. Install dependencies:
 3. Train the model (optional if `disease_model.pkl` already exists):
